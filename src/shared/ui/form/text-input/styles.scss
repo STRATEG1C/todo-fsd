@@ -1,0 +1,17 @@
+.input-wrapper {
+  margin: 20px 0;
+
+  .input-label {
+    display: block;
+    margin-bottom: 5px;
+  }
+
+  .input {
+    padding: 5px;
+    width: 300px;
+
+    &.full-width {
+      width: 100%;
+    }
+  }
+}
